@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dodaram",
+  "private_key_id": "a842b571e0a40a31864bb6be1b6533c6f72e0265",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC3ReaXPYX0EV7X\nYsua30n1AUzLvPNPwJEEbpLeiRLGRd6i8hBXCepLWk+Kz041LVNfW3aI/yNYhXkd\nOBRu88EMCq3u50GjXfF37JqSl4ysXn7s4MkNLMr1Rl0yp9U4HtBYqy+oWRf2pZcq\nI1dBlQks887PxcsEWTbuxGbJz4PncfYvPhaySRegdrzbjqwPoJWL98wfX290/blg\nbDgMuHBwoukEAaB4Q5dgJrQH1s4N/hUNcA5qAdhu8NzUxhoraBuZA84RBvamGUeS\nvrPc0g3n62E7omsDXSzrfoVo/zZezDJS4rZAPSKcOyJxruKAIdt7HnoenH6bS4e1\nBooYoocRAgMBAAECgf9XQA/nMIL1Ds/3+jC0KlkrKtNEq0+qSCLB2WJSTy+A9QJo\n0JS22yGPfg8gJlE1P77RRtnHnq9VFTXzkx8nMyRUd0EW20GEZNTwItPztfJinRoP\n63PLsedtnXIBC6WWchT+IYEuxDuEUJEGnoyLzEfx/qAWijN8fnyIbzgAG6rQI8H9\nuh7fNhVsfNnELzIY2kd1gfIShej6jbr5mfzNS1J+Q1HShEpOfR1typc6SIXHlm4b\na5sv6Xf0/dgn8LxuF87h9AjnP+JJxUtX9hrP5lomgYYkPPsy6oVJveHjQVPftn2B\n0E/rjZ/h7sUZZjTOo/n/lC/xcth0fr1s57dno1kCgYEA60hAkh2zbLZeq7LPPJZZ\nAmzzJHRCj69bQ2WSSiNKKttOR4/HkYMEejr2oKFj6Y22RM9oEpX9x0RI9kIrtCzk\np69xp6E+k3X2WajmUpqBxR4d1uvmUOuyLJXjQor9L3ud1n5VJmh0ycTsfRStna1u\npdsaO82KKnAeUnqy/3v7rrkCgYEAx2lBBld/cWRMh031V0B21WucF52Gdjep5gjb\nlV40gmtnZz+IVB7u7xtoOStfuZIqfaaVUfxpnWN0EVK6If/sPZzg1I4rCIYx/B1L\nwQuw01EPE9kHuZnaU6ndEcImVWKzw5szW10vcN6J7YBbvKTPftntReKCXMXmKyek\nYDaOrxkCgYEAqK+9s8TdnkTGbV2e3TaCDI4maO19x1yXFyQclVDl3QItBnucPsRr\nkmLx7cqoQovasUzutdyZ/aMEmKJqiRxit6K+3stpfPnnLPM+Ztzly3jDNhMdpsjF\njtfL/yp9SezcBiu/SvE7QmoQj8EilNkCaqFDFrtPowuNgd78tNWkZekCgYBf+gng\n+oYNVn/684utFgrcB7IWL6xDA+GTJRpC1xeg2f7n081S55yKmv9b3MNy9qXa2i2u\nSzWuGesIV2/c42eZ9ALGazLNJIG0XYlTfcP6wV3naKLuMt3BPNV5MZ/votTwxac/\nRyeJRKLQG+KLdiukW1F3PGEQM/PnO2pDIJ8mKQKBgCTVHvdytK+10zcSvnyCMRq0\npBVtrxge4iNuOgNDkwgUGvHR7va11tA4eeTSI7M6v5WPiKmXzLRtrzc2xn9B2xBv\n4XSaVbxS130kAulvI29TzIwppo4e8J8rZO6kvQVHEYHDowM1nqOS9lUkrcoPCfvG\nak5QxyiN6qJ6vJ5EzxPk\n-----END PRIVATE KEY-----\n",
+  "client_email": "d6holmes@dodaram.iam.gserviceaccount.com",
+  "client_id": "114686723635431093945",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/d6holmes%40dodaram.iam.gserviceaccount.com"
+}

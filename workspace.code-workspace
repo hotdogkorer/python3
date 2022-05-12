@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "Python",
+			"path": "Python"
+		},
+		{
+			"name": "Python-2",
+			"path": "Python-2"
+		}
+	],
+	"settings": {}
+}
